@@ -1,5 +1,5 @@
 //
-//  HMRViewController.h
+//  HMRTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Hafiz Mohd Rozlan on 8/5/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HMRViewController : UIViewController
+@interface HMRTableViewController : UITableViewController
 
 @end
